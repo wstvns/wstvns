@@ -31,7 +31,9 @@
 ## About Me:
 - Passionate about solving problems through innovation and technology.
 - Worked as a Machine Learning Intern at Compass UOL, developing solutions with AWS tools.
+- Graduating in 
 - Skilled in Python, JavaScript, SQL, ETL, REST APIs, and agile methodologies.
+- Recently built a Machine Learning model using Pytorch and AWS SageMaker.  
 - Fluent in English and Portuguese, thriving in multicultural environments.
 - Always eager to learn, grow, and take on new challenges.
 - When I’m not coding, I enjoy brainstorming ideas, drinking coffee, and battling murlocs in World of Warcraft. (proud goblin mage :dollar:)
@@ -63,27 +65,28 @@
 </div> 
 
 ## GitHub Stats:
-<p align="center"> 
-  <a href="https://github.com/wstvns"> 
-      <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wstvns&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wstvns&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" /> 
-  </a> 
+<p align="center">
+    <a href="https://github.com/wstvns">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wstvns&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wstvns&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
 </p>
-
 <!-- &layout=compact&langs_count=8&theme=onedark&hide_border=true -->
 
 <!-- Activity Graph -->
-<p align="center"> 
+<p align="center">
   <a href="https://github.com/wstvns">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=wstvns&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/> 
-    </a>
-  </p>
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=wstvns&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
+  </a> 
+</p>
 
-<p align="center"> 
-  <a href="https://github.com/wstvns"> 
-    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=wstvns&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true"/> 
-    </a> 
-  </p>
+
+ <p align="center">
+   <a href="https://github.com/wstvns"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=wstvns&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+   </a>  
+ </p>
+
 <br>
 <div id="header" align="center"> 
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
