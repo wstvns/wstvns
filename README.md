@@ -31,7 +31,6 @@
 ## About Me:
 - Passionate about solving problems through innovation and technology.
 - Worked as a Machine Learning Intern at Compass UOL, developing solutions with AWS tools.
-- Graduating in 
 - Skilled in Python, JavaScript, SQL, ETL, REST APIs, and agile methodologies.
 - Recently built a Machine Learning model using Pytorch and AWS SageMaker.  
 - Fluent in English and Portuguese, thriving in multicultural environments.
