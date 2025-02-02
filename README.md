@@ -58,7 +58,8 @@
 <div align="center"> <a href="https://www.linkedin.com/in/wallisson-stevan-985b9375/" target="_blank">
   <img src="https://img.shields.io/badge/-Wallisson%20Stevan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> <a target="_blank" href="mailto:wstevandev@gmail.com">
     <img src="https://img.shields.io/badge/-wstevandev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> <a href="https://github.com/wstvns" target="_blank">
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a> </div>
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a> 
+      <a href="https://leetcode.com/u/wstvns/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a> </div> 
 
 ## GitHub Stats:
 
