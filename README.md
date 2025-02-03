@@ -43,17 +43,21 @@
 <table><tr><td valign="top" width="25%">
 
 ### Programming Languages
+<a href="https://github.com/wstvns">
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,javascript,r,html,css,&perline=4" /> </div></td><td valign="top" width="25%">
-
+</a>
 ### Databases & Tools
+<a href="https://github.com/wstvns">
 <div align="center"><img src="https://skillicons.dev/icons?i=postgresql,aws,docker,terraform,git&perline=4" /> </div></td><td valign="top" width="25%">
+</a>
 
 ### Others
+<a href="https://github.com/wstvns">
 <div align="center"> <img src="https://skillicons.dev/icons?i=nodejs,vscode,pytorch&perline=4" /> 
 </div></td>
 </tr></table>
 </div>
-
+</a>
 ## Connect with Me:
 
 <div align="center"> <a href="https://www.linkedin.com/in/wallisson-stevan-985b9375/" target="_blank">
@@ -66,8 +70,8 @@
 ## GitHub Stats:
 <p align="center">
     <a href="https://github.com/wstvns">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wstvns&show_icons=true&theme=onedark&include_all_commits=true&count_private=false&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wstvns&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=false&hide_border=true" />
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wstvns&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wstvns&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
 <!-- &layout=compact&langs_count=8&theme=onedark&hide_border=true -->
