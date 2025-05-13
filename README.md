@@ -44,19 +44,19 @@
 
 ### Languages
 <a href="https://github.com/wstvns">
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,javascript,r,html,css,&perline=4" /> </div></td><td valign="top" width="25%">
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,javascript,typescript,r,html,css,&perline=4" /> </div></td><td valign="top" width="25%">
 </a>
 
 ### Databases & Tools
 
 <a href="https://github.com/wstvns">
-<div align="center"><img src="https://skillicons.dev/icons?i=postgresql,aws,docker,terraform,git&perline=4" /> </div></td><td valign="top" width="25%">
+<div align="center"><img src="https://skillicons.dev/icons?i=postgresql,aws,mysql,docker,dotnet,terraform,git&perline=4" /> </div></td><td valign="top" width="25%">
 </a>
 
 ### Others
 
 <a href="https://github.com/wstvns">
-<div align="center"> <img src="https://skillicons.dev/icons?i=nodejs,vscode,pytorch&perline=4" /> 
+<div align="center"> <img src="https://skillicons.dev/icons?i=nodejs,react,flutter,vscode,pytorch&perline=4" /> 
 </div></td>
 </tr></table>
 </div>
