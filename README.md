@@ -42,7 +42,7 @@
 <div align="center">
 <table><tr><td valign="top" width="25%">
 
-### Programming Languages
+### Languages
 <a href="https://github.com/wstvns">
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,javascript,r,html,css,&perline=4" /> </div></td><td valign="top" width="25%">
 </a>
