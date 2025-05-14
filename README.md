@@ -71,7 +71,7 @@
       <a href="https://leetcode.com/u/wstvns/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a> 
 </div> 
 
-<!-- GitHub Stats -->
+## GitHub Stats 
 <p align="center">
     <a href="https://github.com/wstvns">
         <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wstvns&show_icons=true&theme=dracula"/>
@@ -91,14 +91,14 @@
 <!-- Streak Stats -->
 <p align="center">
   <a href="https://github.com/wstvns">
-    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=wstvns&theme=onedark&hide_border=true&cache_seconds=1800" alt="Estatísticas de streak de Wallisson Stevan"/>
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=wstvns&theme=onedark&hide_border=true&cache_seconds=1800" alt="Estatísticas de streak de Wallisson Stevan"/>
   </a>
 </p>
 
 <br>
 <div id="header" align="center"> 
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=wstvns" alt="wstvns"/>
+    <img width="70%" src="https://github-profile-trophy.vercel.app/?username=wstvns" alt="wstvns"/>
     </a> 
   </p> 
   <img src="https://komarev.com/ghpvc/?username=wstvns&style=for-the-badge&color=orange" alt=""/> </div>
@@ -108,7 +108,7 @@
 
 <div align="center">
   <a href="https://github.com/wstvns">
-    <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
+    <img width="23%" src="https://quotes-github-readme.vercel.app/api?theme=dark">
   </a>
  </div> 
  
