@@ -98,7 +98,7 @@
 <br>
 <div id="header" align="center"> 
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="70%" src="https://github-profile-trophy.vercel.app/?username=wstvns" alt="wstvns"/>
+    <img width="79%" src="https://github-profile-trophy.vercel.app/?username=wstvns" alt="wstvns"/>
     </a> 
   </p> 
   <img src="https://komarev.com/ghpvc/?username=wstvns&style=for-the-badge&color=orange" alt=""/> </div>
@@ -108,7 +108,7 @@
 
 <div align="center">
   <a href="https://github.com/wstvns">
-    <img width="23%" src="https://quotes-github-readme.vercel.app/api?theme=dark">
+    <img width="29%" src="https://quotes-github-readme.vercel.app/api?theme=dark">
   </a>
  </div> 
  
