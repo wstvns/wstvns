@@ -74,8 +74,8 @@
 ## GitHub Stats 
 <p align="center">
     <a href="https://github.com/wstvns">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wstvns&show_icons=true&theme=dracula"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wstvns&langs_count=12&layout=compact&langs_count=8&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wstvns&show_icons=true&theme=dracula&include_all_commits=false&count_private=false&hide_border=false"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wstvns&langs_count=12&layout=compact&langs_count=8&theme=dracula&include_all_commits=true&count_private=true&hide_border=false"/>
     </a>
 </p>
 <!-- &layout=compact&langs_count=8&theme=onedark&hide_border=true -->
@@ -91,14 +91,14 @@
 <!-- Streak Stats -->
 <p align="center">
   <a href="https://github.com/wstvns">
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=wstvns&theme=onedark&hide_border=true&cache_seconds=1800" alt="Estatísticas de streak de Wallisson Stevan"/>
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=wstvns&theme=onedark&hide_border=false&cache_seconds=1800" alt="Estatísticas de streak de Wallisson Stevan"/>
   </a>
 </p>
 
 <br>
 <div id="header" align="center"> 
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="79%" src="https://github-profile-trophy.vercel.app/?username=wstvns" alt="wstvns"/>
+    <img width="79%" src="https://github-profile-trophy.vercel.app/?username=wstvns&theme=juicyfresh&hide_border=false" alt="wstvns"/>
     </a> 
   </p> 
   <img src="https://komarev.com/ghpvc/?username=wstvns&style=for-the-badge&color=orange" alt=""/> </div>
