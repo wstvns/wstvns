@@ -32,7 +32,7 @@
 - Passionate about solving problems through innovation and technology.
 - Worked as a Machine Learning Intern at Compass UOL, developing solutions with AWS tools.
 - Skilled in Python, JavaScript, SQL, ETL, REST APIs, and agile methodologies.
-- Recently built a Machine Learning model using Pytorch and AWS SageMaker.  
+- Recently built a Machine Learning model using Pytorch and AWS SageMaker and Sudoku game with Javascript.  
 - Fluent in English and Portuguese, thriving in multicultural environments.
 - Always eager to learn, grow, and take on new challenges.
 - When I’m not coding, I enjoy brainstorming ideas, drinking coffee, and battling murlocs in World of Warcraft. (proud goblin mage :dollar:)
