@@ -35,7 +35,6 @@
 - Recently built a Machine Learning model using Pytorch and AWS SageMaker and Sudoku game with Javascript.  
 - Fluent in English and Portuguese, thriving in multicultural environments.
 - Always eager to learn, grow, and take on new challenges.
-- When I’m not coding, I enjoy brainstorming ideas, drinking coffee, and battling murlocs in World of Warcraft. (proud goblin mage :dollar:)
 
 ## Skill Set:
 
