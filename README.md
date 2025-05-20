@@ -90,7 +90,7 @@
 <!-- Streak Stats -->
 <p align="center">
   <a href="https://github.com/wstvns">
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=wstvns&theme=onedark&hide_border=false&cache_seconds=1800" alt="Estatísticas de streak de Wallisson Stevan"/>
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=wstvns&theme=onedark&hide_border=false&cache_seconds=100" alt="Estatísticas de streak de Wallisson Stevan"/>
   </a>
 </p>
 
