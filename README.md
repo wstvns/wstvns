@@ -55,7 +55,7 @@
 ### Others
 
 <a href="https://github.com/wstvns">
-<div align="center"> <img src="https://skillicons.dev/icons?i=nodejs,react,flutter,vscode,pytorch&perline=4" /> 
+<div align="center"> <img src="https://skillicons.dev/icons?i=arch,linux,nodejs,react,flutter,vscode,pytorch&perline=4" /> 
 </div></td>
 </tr></table>
 </div>
